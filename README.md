@@ -1,2 +1,2 @@
-# calculator_gui
-A simple calculator application with gui written by CPP and QT
+# greedy_snake
+一个使用C++写的简单贪吃蛇游戏
