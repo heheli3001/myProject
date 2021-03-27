@@ -1,2 +1,2 @@
 # greedy_snake
-A greedy snake game written by CPP
+A small greedy snake game written by CPP
