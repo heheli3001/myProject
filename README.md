@@ -1,2 +1,2 @@
 # greedy_snake
-一个使用C++写的简单贪吃蛇游戏
+A greedy snake game written by CPP
